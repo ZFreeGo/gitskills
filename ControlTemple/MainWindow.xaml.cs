@@ -22,6 +22,15 @@ namespace ControlTemple
         public MainWindow()
         {
             InitializeComponent();
+
+           
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            VisualTreeDisplay treeDisplay = new VisualTreeDisplay();
+            treeDisplay.ShowVisaulTree(this);
+            treeDisplay.Show();
         }
     }
 }

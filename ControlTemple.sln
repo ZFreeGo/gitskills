@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTemple", "ControlTemple\ControlTemple.csproj", "{E53D825B-145B-4558-8A93-A00029E896E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaulTreeDispaly", "VisaulTreeDispaly\VisaulTreeDispaly.csproj", "{4FD4AF41-D9EF-4A0E-A4A3-E20491E4028B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E53D825B-145B-4558-8A93-A00029E896E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E53D825B-145B-4558-8A93-A00029E896E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E53D825B-145B-4558-8A93-A00029E896E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD4AF41-D9EF-4A0E-A4A3-E20491E4028B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD4AF41-D9EF-4A0E-A4A3-E20491E4028B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD4AF41-D9EF-4A0E-A4A3-E20491E4028B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD4AF41-D9EF-4A0E-A4A3-E20491E4028B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

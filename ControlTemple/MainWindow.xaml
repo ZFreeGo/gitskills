@@ -6,7 +6,7 @@
         <AdornerDecorator>
             <StackPanel>
                 <Button Margin="3" Click="Button_Click">First Button</Button>
-                <Button Margin="3">Second Button</Button>
+                <Button Margin="3" Click="Button_Click_1">Second Button</Button>
             </StackPanel>
         </AdornerDecorator>
     </Border>

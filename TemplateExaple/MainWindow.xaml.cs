@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ControlTemple
+namespace TemplateExaple
 {
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
@@ -22,21 +22,6 @@ namespace ControlTemple
         public MainWindow()
         {
             InitializeComponent();
-
-           
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            VisualTreeDisplay treeDisplay = new VisualTreeDisplay();
-            treeDisplay.ShowVisaulTree(this);
-            treeDisplay.Show();
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            var pouxi = new Pouxi();
-            pouxi.Show();
         }
     }
 }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTemple", "ControlTem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisaulTreeDispaly", "VisaulTreeDispaly\VisaulTreeDispaly.csproj", "{4FD4AF41-D9EF-4A0E-A4A3-E20491E4028B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateExaple", "TemplateExaple\TemplateExaple.csproj", "{1283C796-52F5-4910-BDD7-4F2766380A7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4FD4AF41-D9EF-4A0E-A4A3-E20491E4028B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FD4AF41-D9EF-4A0E-A4A3-E20491E4028B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FD4AF41-D9EF-4A0E-A4A3-E20491E4028B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1283C796-52F5-4910-BDD7-4F2766380A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1283C796-52F5-4910-BDD7-4F2766380A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1283C796-52F5-4910-BDD7-4F2766380A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1283C796-52F5-4910-BDD7-4F2766380A7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
